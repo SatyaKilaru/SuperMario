@@ -101,8 +101,6 @@ Let’s Go back to 1985 and play the game like children.
 
 This is official image by MR CLOUD BOOK
 
-You can check in Docker-hub as well nirmalnaveen/supermario
-
 #### Let's remove the service and deployments
 
 `kubectl get all`
@@ -120,11 +118,5 @@ You can check in Docker-hub as well nirmalnaveen/supermario
 ⚠Note: 
 
 Don’t forget to Stop or Delete all clusters and services of AWS otherwise this will cost you without knowing you.
-
-## Author
-
-- [@Nirmal Naveen](https://www.nirmalnaveen.com/)
-
-![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlPjhPV6D68kBoBq82reUr6ndqcI_n9YPSQ9WA3sqT_RAXpDVcujzTO1MmWrcmcGYeyA&usqp=CAU)
 
 
